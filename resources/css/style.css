@@ -8,7 +8,8 @@ body {
   background-repeat: no-repeat;
 }
 
-.header {
+a {
+  color: white;
 }
 
 header, h1 {
@@ -41,10 +42,6 @@ main, p {
     font-size: 23px;
     font-weight: bold;
     color: white;
-}
-
-a {
-  color: white;
 }
 
 .bottom {
